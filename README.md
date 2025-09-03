@@ -1,5 +1,5 @@
 ## Dashboard images
-![Dashboard Home](https://github.com/vikas98SSS/Nike_shoes-Sales-Analysis-Dashboard/blob/main/shoesales%201.PNG)
+![Dashboard Home](https://github.com/vikas98SSS/Car_Sales/blob/main/Capture.PNG)
 
 
 Automotive Sales and Market Analysis Dashboard
