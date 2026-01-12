@@ -1,6 +1,7 @@
 # Vikas Dhakad
 ## Dashboard images
 ![Dashboard Home](https://github.com/vikas98SSS/Car_Sales/blob/main/Capture.PNG)
+![Questions](https://github.com/vikas98SSS/Car_Sales/blob/main/Questionairelist.png)
 
 
 Automotive Sales and Market Analysis Dashboard
